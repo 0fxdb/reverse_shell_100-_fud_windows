@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reverse Shell 100% FUD para Windows</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -61,4 +56,4 @@
         </div>
     </div>
 </body>
-</html>
+
