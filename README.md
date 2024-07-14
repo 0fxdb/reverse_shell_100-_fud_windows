@@ -1,6 +1,6 @@
 # reverse_shell_100-_fud_windows <br>
 100% undetectable reverse shell<br> bypassing Windows Defender and other anti-viruses
-you can buy the source code in <a href="https://t.me/whoami6669">Telegram</a>
+you can buy the source code in <a href="tg://resolve?domain=whoami6669">Telegram</a>
 <br>
 <a href="https://youtu.be/ecNpm13Ce2E">Youtube Video</a>
 <br>
